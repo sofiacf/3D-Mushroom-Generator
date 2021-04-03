@@ -1,4 +1,4 @@
-package com.cyntaks.botgame;
+package com.cyntaks.mushroom;
 
 import org.lwjgl.opengl.GL11;
 
